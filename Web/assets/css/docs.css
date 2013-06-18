@@ -297,6 +297,11 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
   max-height: 145px;
 }
 
+.marketing-video {
+  margin: 10px 10px 10px 10px;
+  background-color: #222;
+}
+
 
 
 /* Footer
@@ -1024,11 +1029,11 @@ form.bs-docs-example {
     text-align: center;
   }
   .example-sites .thumbnail > img {
-    margin-right: auto;
-    margin-left: auto;
     max-width: 270px;
     max-height: 200px;
   }
+
+  .example-sites .thumbnail >ifr
 
   /* Do our best to make tables work in narrow viewports */
   table code {
